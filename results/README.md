@@ -1,3 +1,5 @@
+# NOTE: All of the output results are published in hugginface at https://huggingface.co/datasets/dieferna/afgen_results
+
 # Dataset Name Mapping
 
 This folder contains evaluation results using original dataset names. Use the table below to map the folder/file names to their publication aliases:
